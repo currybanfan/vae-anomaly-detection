@@ -1,0 +1,7 @@
+data
+venv
+params
+*.pdf
+__pycache__
+__MACOSX
+A7**
